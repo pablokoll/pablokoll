@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi there, my name is Pablo Koll and I am a TypeScript and Python Developer from Argentina, located in Spain.<br>👀 I’m interested in NodeJS, TypeScript and Python.<br>🌱 I’m currently learning GraphQL.<br>💞️ I’m looking to collaborate on any Back-End project.</p>
+<p align="left">👋 Hi there, my name is Pablo Koll and I am a TypeScript and Python Developer from Argentina, located in Spain.<br>👀 I’m interested in NodeJS, TypeScript and Python.<br>🌱 I’m currently learning GraphQL.<br>💞️ I’m looking to collaborate on any Back-End project.<br>📫 You can reach me by email at: pablokollm@gmail.com</p>
 
 ###
 
