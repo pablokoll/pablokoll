@@ -47,21 +47,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img align="right" height="180" src="https://i.pinimg.com/originals/ba/d2/5d/bad25d3328765787acb8947d08856e72.jpg"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pablokoll&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pablokoll/pablokoll/output/snake.svg" alt="Snake animation" />
-
-###
