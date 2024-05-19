@@ -45,7 +45,4 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-![image](https://github.com/pablokoll/pablokoll/assets/84752733/90462590-241f-4a19-a7cf-4eb53e29c615)
-
-
 ###
