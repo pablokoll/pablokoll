@@ -1,4 +1,4 @@
-<h1 align="left"><a href="https://pablokoll.com" rel="nofollow" target="_blank">pablokoll.com</a></h1>
+<h1 align="left"><a href="https://pablokoll.com" target="_blank">pablokoll.com</a></h1>
 
 ###
 
