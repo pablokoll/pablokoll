@@ -1,4 +1,4 @@
-<h1 align="left"><a href="https://pablokoll.com" target="_blank">pablokoll.com</a> (my last activity are in gitlab)</h1>
+<h1 align="left"><a href="https://pablokoll.com" target="_blank">pablokoll.com</a></h1>
 
 ###
 
@@ -27,5 +27,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="30" alt="amazonwebservices logo"  />
 </div>
-
+<div>
+  <p>(my last activity is in gitlab)</p>
+</div>
 ###
