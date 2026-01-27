@@ -13,7 +13,7 @@ Backend     Node.js, NestJS, Express
 Frontend    React, Vue.js, Next.js
 DevOps      Docker, AWS, CI/CD
 ──────────────────────────────────────
-Website     pablokoll.com
+Website     [pablokoll.com](https://pablokoll.com)
 ```
 
 ## `$ cat currently.txt`
@@ -35,11 +35,6 @@ exploring: AI agents & automation tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=74c7ec)
 ![AWS](https://img.shields.io/badge/AWS-1e1e2e?style=for-the-badge&logo=amazonaws&logoColor=fab387)
 ![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=f9e2af)
-
-## `$ git stats`
-
-![Stats](https://github-readme-stats.vercel.app/api?username=pablokoll&theme=catppuccin_mocha&hide_border=true&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=pablokoll&theme=catppuccin_mocha&hide_border=true)
 
 ## `$ contact --info`
 
