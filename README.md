@@ -13,7 +13,7 @@ Backend     Node.js, NestJS, Express
 Frontend    React, Vue.js, Next.js
 DevOps      Docker, AWS, CI/CD
 ──────────────────────────────────────
-Website     [pablokoll.com](https://pablokoll.com)
+Website     https://pablokoll.com
 ```
 
 ## `$ cat currently.txt`
