@@ -1,7 +1,7 @@
 ```bash
 pablokoll@github
 ──────────────────────────────────────
-Role        Software Developer @ TENDAM
+Role        Software Engineer @ TENDAM
 Location    Madrid, Spain
 Uptime      4+ years coding
 Editor      Neovim
