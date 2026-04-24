@@ -5,7 +5,7 @@ Role        Software Developer @ TENDAM
 Location    Madrid, Spain
 Uptime      4+ years coding
 Editor      Neovim
-OS          Arch Linux (btw)
+OS          Arch Linux
 Theme       Catppuccin Mocha
 ──────────────────────────────────────
 Stack       TypeScript, Python, Go
