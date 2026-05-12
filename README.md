@@ -40,8 +40,8 @@ exploring: AI tooling for development workflows
 
 ## `$ contact --info`
 
-🌐 **Portfolio:** [pablokoll.com](https://pablokoll.com)
-💼 **LinkedIn:** [pablo-koll](https://linkedin.com/in/pablo-koll)
+🌐 **Portfolio:** [https://pablokoll.com](https://pablokoll.com)
+💼 **LinkedIn:** [https://linkedin.com/in/pablo-koll](https://linkedin.com/in/pablo-koll)
 📧 **Email:** [pablokollm@gmail.com](mailto:pablokollm@gmail.com)
 
 ---
