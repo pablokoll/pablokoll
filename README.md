@@ -1,10 +1,12 @@
+## `$ whoami`
+
 ```bash
 pablokoll@github
 ──────────────────────────────────────
-Role        Software Engineer @ TENDAM
+Role        Backend Engineer @ Tendam
 Location    Madrid, Spain
 Uptime      4+ years coding
-Editor      Neovim
+Editor      Zed / Neovim
 OS          Arch Linux
 Theme       Catppuccin Mocha
 ──────────────────────────────────────
@@ -19,9 +21,9 @@ Website     https://pablokoll.com
 ## `$ cat currently.txt`
 
 ```properties
-learning:  Go fundamentals & syntax
-daily:     Neovim motions & plugins
-exploring: AI agents & automation tools
+learning:  Go — concurrency patterns & backend services
+daily:     Vim — keyboard-first everything
+exploring: AI tooling for development workflows
 ```
 
 ## `$ ls skills/`
@@ -45,5 +47,5 @@ exploring: AI agents & automation tools
 ---
 
 <div align="center">
-<sub>Self-taught developer • Backend systems & architecture • Open to opportunities</sub>
+<sub>Backend engineer focused on integrations & transactional systems • Open to opportunities</sub>
 </div>
